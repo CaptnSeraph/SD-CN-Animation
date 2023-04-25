@@ -1,3 +1,6 @@
 __pycache__/
 out/
 result.mp4
+temp_video.mov
+openh264-1.8.0-win64.dll
+u2net.pth
